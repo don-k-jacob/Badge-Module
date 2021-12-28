@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+ PROJECT LOGO 
 <br />
 <p align="center">
   <a href="/">
@@ -19,9 +19,9 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
+ TABLE OF CONTENTS 
 
-<!-- ## Table of Contents
+ ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
@@ -34,10 +34,10 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements) -->
+- [Acknowledgements](#acknowledgements) 
 
-<!-- ABOUT THE PROJECT -->
-<!--
+ ABOUT THE PROJECT 
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -60,10 +60,10 @@ This section should list any major frameworks that you built your project using.
 
 - [Bootstrap](https://getbootstrap.com)
 - [JQuery](https://jquery.com)
-- [Laravel](https://laravel.com) -->
+- [Laravel](https://laravel.com) 
 
-<!-- GETTING STARTED -->
-<!--
+ GETTING STARTED 
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -98,25 +98,25 @@ npm install
 
 ```JS
 const API_KEY = 'ENTER YOUR API';
-``` -->
+``` 
 
-<!-- USAGE EXAMPLES -->
+ USAGE EXAMPLES 
 
-<!-- ## Usage
+ ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_ -->
+_For more examples, please refer to the [Documentation](https://example.com)_ 
 
-<!-- ROADMAP -->
+ ROADMAP 
 
-<!-- ## Roadmap
+ ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues). -->
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues). 
 
-<!-- CONTRIBUTING -->
+ CONTRIBUTING 
 
-<!-- ## Contributing
+ ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -124,25 +124,25 @@ Contributions are what make the open source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request -->
+5. Open a Pull Request 
 
-<!-- LICENSE -->
+ LICENSE 
 
-<!-- ## License
+ ## License
 
-Distributed under the MIT License. See `LICENSE` for more information. -->
+Distributed under the MIT License. See `LICENSE` for more information. 
 
-<!-- CONTACT -->
-<!--
+ CONTACT 
+
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) 
 
-<!-- ACKNOWLEDGEMENTS -->
+ ACKNOWLEDGEMENTS 
 
-<!-- ## Acknowledgements
+ ## Acknowledgements
 
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Img Shields](https://shields.io)
@@ -154,12 +154,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 - [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
 - [Sticky Kit](http://leafo.net/sticky-kit)
 - [JVectorMap](http://jvectormap.com)
-- [Font Awesome](https://fontawesome.com) -->
+- [Font Awesome](https://fontawesome.com) 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+ MARKDOWN LINKS & IMAGES 
+ https://www.markdownguide.org/basic-syntax/#reference-style-links 
 
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+ [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
@@ -171,4 +171,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png -->
+[product-screenshot]: images/screenshot.png 
