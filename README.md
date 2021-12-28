@@ -5,7 +5,7 @@
     <img src="legacy/assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Badge Generator for DSC WOW</h3>
+ ACKNOWLEDGEMENTS 
 
   <p align="center">
     An AI vision based Badge Module!
